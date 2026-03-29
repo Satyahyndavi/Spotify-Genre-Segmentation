@@ -79,11 +79,9 @@ This clustering technique helps in building a music recommendation system like S
 ---
 
 ## 📷 Output Screenshot
+![Cluster Graph](graph.png)
 
-(Add your graph image here if available)
-
----
 
 ## 👨‍💻 Author
 
-Your Name
+B.Satya Hyndavi
