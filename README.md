@@ -79,6 +79,7 @@ This clustering technique helps in building a music recommendation system like S
 ---
 
 ## 📷 Output Screenshot
+## Output
 ![Cluster Graph](graph.png)
 
 
